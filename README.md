@@ -4,9 +4,9 @@
 
 <img src="./boneco.gif" width="200">
 
-# Sabrina
+# Sabrina de Oliveira Freitas
 
-### 🎓 Computer Science Student
+### Computer Science Student
 
 **C • Python • AI • Machine Learning • Software Testing • Data Analysis**
 
@@ -37,7 +37,7 @@ I also enjoy learning languages and exploring new technologies.
 
 <br><br>
 
-### 🔍 Interests
+###  Interests
 
 **Test Automation • Software Testing • AI • Machine Learning • Data Analysis • Game Development**
 
