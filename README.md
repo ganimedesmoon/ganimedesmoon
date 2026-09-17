@@ -48,6 +48,6 @@ I also enjoy learning languages and exploring new technologies.
 </div>
 
 <div align="center">
- <img src="./tenor(1).gif" width="250">
+ <img src="./tenor (1).gif" width="250">
 </div>
 
