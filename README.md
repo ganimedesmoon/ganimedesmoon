@@ -4,20 +4,22 @@
 
 <img src="./boneco.gif" width="200">
 
-# Sabrina
+# Sabrina de Oliveira 
 
 ### Computer Science Student
 
 <br>
 
-**Python** • **C** • **C++** • **JavaScript**
-**TypeScript** • **HTML** • **CSS**
-**PHP** • **MySQL**
+**Python** • **C** • **CyberSecurity** • **AI** • **HTML** • **CSS**
+
 
 <br>
 
-[GitHub](https://github.com/SEU-USUARIO) • [LinkedIn](https://www.linkedin.com/in/sabrina-de-oliveira-freitas/)
+• [LinkedIn](https://www.linkedin.com/in/sabrina-de-oliveira-freitas/)
 
 </div>
 
-<img src="./tenor.gif" width="250">
+<div align="center">
+ <img src="./tenor.gif" width="250">
+</div>
+
