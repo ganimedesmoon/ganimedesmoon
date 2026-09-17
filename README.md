@@ -4,7 +4,7 @@
 
 <img src="./boneco.gif" width="200">
 
-# sasa
+# Sabrina Freitas
 
 ### Computer Science Student
 
