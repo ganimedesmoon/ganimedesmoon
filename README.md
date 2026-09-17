@@ -4,7 +4,7 @@
 
 <img src="./boneco.gif" width="200">
 
-# me chamam de sássa
+# sasa
 
 ### Computer Science Student
 
