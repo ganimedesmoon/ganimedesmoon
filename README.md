@@ -14,9 +14,6 @@
 
 I'm a Computer Science student interested in software development,
 artificial intelligence, machine learning and game development.
-
-I have experience as a programming mentor in a school focused on full-stack development.
-
 Currently studying **Python**, with a particular interest in **test automation**,
 **software testing** and **data analysis**.
 
